@@ -50,7 +50,7 @@ Fraud detection exploration
 
 You can explore the interactive dashboard created using Tableau:
 
-👉 [**View Tableau Dashboard**]([https://public.tableau.com/app/profile/your-username/viz/your-dashboard-name](https://public.tableau.com/app/profile/nishtha.tripathi8099/viz/Credit_card_transac_dash/Dashboard1))
+👉 [**View Tableau Dashboard**](https://public.tableau.com/app/profile/nishtha.tripathi8099/viz/Credit_card_transac_dash/Dashboard1)
 
 The dashboard includes:
 - Total transactions over time
